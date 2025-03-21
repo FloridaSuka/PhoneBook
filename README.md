@@ -1,3 +1,5 @@
+📖 Phone Book – Aplikacion për Menaxhimin e Kontakteve 📱
+
 Phone Book është një aplikacion C++ që lejon përdoruesit të shtojnë, kërkojnë, editojnë dhe fshijnë kontakte përmes një ndërfaqeje të thjeshtë me tekst. Ky program përdor oop (programim i orientuar në objekte) dhe dinamikisht alokon memorien për të mbajtur kontaktet.
 
 ✨ Karakteristikat kryesore
